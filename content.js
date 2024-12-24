@@ -1,4 +1,3 @@
-// content.js
 function countWords() {
     // Get main content (exclude common non-content elements)
     const excludeSelectors = [

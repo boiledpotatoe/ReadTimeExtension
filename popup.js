@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       }
   
       const wordCount = results[0].result;
-      const minutes = Math.max(1, Math.round(wordCount / 200)); // Using fixed 200 WPM
+      const minutes = Math.max(1, Math.round(wordCount / 200)); 
       
       const readingTimeDiv = document.getElementById('readingTime');
       readingTimeDiv.innerHTML = `
