@@ -58,3 +58,5 @@ This extension:
 - Does not require any special permissions beyond accessing the current tab
 - Does not communicate with any external servers
 - All calculations are performed locally in your browser
+
+Husnain Khaliq 
