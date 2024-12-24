@@ -2,7 +2,7 @@
 
 A lightweight Chrome extension that instantly shows you how long it will take to read any webpage. Clean, simple, and privacy-focused with no tracking or data collection.
 
-![Reading Time Extension Screenshot](screenshot.png)
+![Reading Time Extension Screenshot](timeEstimSS.png)
 
 ## Features
 
