@@ -4,6 +4,9 @@
     "version": "1.0",
     "description": "Shows estimated reading time for any webpage",
     "permissions": ["activeTab", "scripting"],
+    "icons": {
+    "48": "icon48.png"
+    },
     "action": {
       "default_popup": "popup.html"
     }
