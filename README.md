@@ -11,6 +11,7 @@ A lightweight Chrome extension that instantly shows you how long it will take to
 - 🎨 Clean, minimal interface
 - 🔒 Privacy-focused: works entirely offline with no data collection
 - ⚡ Lightweight: no external dependencies
+- 📚 Summarize long articles, news, blogs, etc. *Coming soon*
 
 ## Installation
 
